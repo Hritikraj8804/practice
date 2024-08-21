@@ -4,9 +4,7 @@ This repository contains the code and notes from my machine learning practice se
 ## Table of Contents
 - [Overview](#Overview)
 - [Installation](#Installation)
-- [Usage](#Usage)
 - [Project Structure](#Project_Structure)
-- [Notebooks](#Notebooks)
 - [Contributing](#Contributing)
 - [License](#License)
 
@@ -46,3 +44,13 @@ ml-practice/
 ├── requirements.txt          # List of dependencies
 └── README.md                 # This file
 ```
+
+## Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you have any suggestions or find any bugs.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+- Andrew Ng for his comprehensive and beginner-friendly [Machine Learning course](https://www.coursera.org/learn/machine-learning) on Coursera.
+- The open-source community for providing tools and libraries that make machine learning accessible.
