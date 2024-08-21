@@ -21,11 +21,28 @@ This repository is a collection of Jupyter notebooks and Python scripts that I c
 - Unsupervised Learning (K-means clustering, PCA)
 - Anomaly Detection
 
-### Installation
+## Installation
 To run the notebooks and scripts in this repository, you will need Python and Jupyter Notebook. You can install the necessary dependencies using the following steps:
 
 Clone the repository:
 ```bash
 git clone https://github.com/Hritikraj8804/ml-practice.git
 cd ml-practice
+```
+
+## Project Structure
+```bash
+ml-practice/
+│
+├── 001/                      # projects on machine learning
+├── 002/
+├── 003/ ...
+├── data/                     # Datasets used in the notebooks
+├── notebooks/                # Jupyter notebooks for each topic
+│   ├── 01_linear_regression.ipynb
+│   ├── 02_logistic_regression.ipynb
+│   └── ...
+├── scripts/                  # Python scripts for standalone code examples
+├── requirements.txt          # List of dependencies
+└── README.md                 # This file
 ```
