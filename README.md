@@ -9,3 +9,14 @@ This repository contains the code and notes from my machine learning practice se
 - [Notebooks](#Notebooks)
 - [Contributing](#Contributing)
 - [License](#License)
+
+## Overview
+This repository is a collection of Jupyter notebooks and Python scripts that I created while following Andrew Ng's machine learning videos. The content includes both theoretical exercises and practical implementations of algorithms using Python.
+
+### Topics Covered:
+- Linear Regression
+- Logistic Regression
+- Neural Networks
+- Support Vector Machines
+- Unsupervised Learning (K-means clustering, PCA)
+- Anomaly Detection
