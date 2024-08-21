@@ -20,3 +20,12 @@ This repository is a collection of Jupyter notebooks and Python scripts that I c
 - Support Vector Machines
 - Unsupervised Learning (K-means clustering, PCA)
 - Anomaly Detection
+
+### Installation
+To run the notebooks and scripts in this repository, you will need Python and Jupyter Notebook. You can install the necessary dependencies using the following steps:
+
+Clone the repository:
+```bash
+git clone https://github.com/Hritikraj8804/ml-practice.git
+cd ml-practice
+```
