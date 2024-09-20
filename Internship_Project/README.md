@@ -23,8 +23,10 @@ To use the project, follow these steps:
 
 1. **Clone** the repository to your local machine:
 ```bash
-   git clone https://github.com/your-username/sentiment-analysis-project.git
+   [https://github.com/Hritikraj8804/ML_practice.git)
 ```
+navigate to Intership_project folder and open it.
+
 2. Open the ```app``` folder and run the HTML app in a web browser.
 
 3. Enter a review in the input field and click the "Sumbit" button.
