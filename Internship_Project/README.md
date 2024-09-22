@@ -23,7 +23,7 @@ To use the project, follow these steps:
 
 1. **Clone** the repository to your local machine:
 ```bash
-   [https://github.com/Hritikraj8804/ML_practice.git)
+   https://github.com/Hritikraj8804/ML_practice.git
 ```
 navigate to Intership_project folder and open it.
 
