@@ -27,7 +27,7 @@ To use the project, follow these steps:
 ```
 navigate to Intership_project folder and open it.
 
-2. Open the ```app``` folder and run the HTML app in a web browser.
+2. Open the ```Internship_Project``` folder and run ```Sentiment_analysis.ipynb``` in a Jupyter Notebook.
 
 3. Enter a review in the input field and click the "Sumbit" button.
 
