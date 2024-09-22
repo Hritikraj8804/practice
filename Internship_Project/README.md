@@ -1,6 +1,6 @@
 # Sentiment Analysis Project
 
-This repository contains a comprehensive sentiment analysis project that includes an HTML app for user input, a machine learning model for training and testing, and data analysis for sentiment analysis.
+This repository contains a comprehensive sentiment analysis project that includes a machine learning model for training and testing, and data analysis for sentiment analysis.
 
 ## Project Overview
 
