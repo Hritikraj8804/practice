@@ -60,9 +60,6 @@ The project utilizes the following technologies:
 ## License
 This project is licensed under the MIT License.
 
-## Acknowledgments
-This project was developed using various online resources and tutorials. Special thanks to github.com and github.com for providing inspiration and guidance.
-
 ## Contributing
 Contributions to the project are welcome! If you'd like to contribute, please follow these steps:<br /> 
 Fork the repository.<br /> 
