@@ -52,8 +52,6 @@ The data analysis was conducted using Jupyter notebooks. These notebooks contain
 ## Technologies Used
 The project utilizes the following technologies:
 
-**HTML/CSS**: For building the app interface.<br /> 
-**JavaScript**: For adding interactivity and functionality to the app.<br /> 
 **Python**: For machine learning model development and data analysis.<br /> 
 **Jupyter Notebooks**: For exploring and analyzing the dataset.<br /> 
 **TF-IDF Vectorization**: For converting text data into numerical form.<br /> 
