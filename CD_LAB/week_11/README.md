@@ -1,13 +1,21 @@
-LEX PART: calculator.l
+LEX PART: `calculator.l`
 
-YACC PART: calculator.y
+YACC PART: `calculator.y`
 
-flex calculator.l
-yacc -d calculator.y
+Compile calculator.l using : `flex calculator.l`
 
-gcc lex.yy.c y.tab.c -o calculator -lfl
+Compile calculator.y using : `yacc -d calculator.y`
 
-./calculator
+compile the intermediate generated file : `gcc lex.yy.c y.tab.c -o calculator -lfl`
 
+run the program : `./calculator`
+
+input:
+```
 3+5*(2-8)
+```
+
+output:
+```
 -27
+```
