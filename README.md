@@ -49,3 +49,14 @@ This directory contains assignments related to machine learning.
     cd ML/Assignment1
     ```
 3.  **Follow the instructions in the assignment's README or documentation.**
+
+## Dependencies
+
+Specific dependencies for each assignment are listed within the respective assignment directories. Generally, you may need:
+
+* **Python 3.x:** For ML and some CNS assignments.
+* **Java:** For CD assignments.
+* **C/C++:** For some CNS and CD assignments.
+* **Specific libraries:** Such as NumPy, Pandas, Scikit-learn (for ML), or network simulation tools (for CNS).
+
+Please refer to the individual assignment's documentation for detailed dependency information.
