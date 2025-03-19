@@ -1,4 +1,4 @@
-lab repo
+# lab repo
 
 This repository contains my lab assignments for the following courses:
 
@@ -65,11 +65,7 @@ Please refer to the individual assignment's documentation for detailed dependenc
 
 This repository is for personal academic purposes. Contributions are not expected.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE) (if you choose to add one).
-
 ## Author
 
-[Your Name]
-[Your Email/GitHub Profile]
+Hritik Raj
+[linkedin](https://www.linkedin.com/in/hritik-raj-8804hr/)
