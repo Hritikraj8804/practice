@@ -23,3 +23,9 @@ This directory contains assignments related to compiler design.
 * **LexicalAnalyzer:** Contains code for lexical analysis.
 * **Parser:** Contains code for parsing.
 * **Other subfolders:** May contain assignments related to semantic analysis and code generation.
+
+## ML (Machine Learning)
+
+This directory contains assignments related to machine learning.
+
+* **Assignments:** Each assignment folder contains the code, datasets, and documentation.
