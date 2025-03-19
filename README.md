@@ -15,3 +15,11 @@ This repository contains my lab assignments for the following courses:
 This directory contains assignments related to computer networks and security concepts.
 
 * **Assignments:** Each assignment folder contains the code, documentation, and any other relevant files.
+
+## CD (Compiler Design)
+
+This directory contains assignments related to compiler design.
+
+* **LexicalAnalyzer:** Contains code for lexical analysis.
+* **Parser:** Contains code for parsing.
+* **Other subfolders:** May contain assignments related to semantic analysis and code generation.
