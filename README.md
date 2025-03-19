@@ -10,3 +10,8 @@ This repository contains my lab assignments for the following courses:
 * **CD:** Contains assignments related to compiler design, including lexical analysis, parsing, and code generation.
 * **ML:** Contains assignments related to machine learning, covering various algorithms and techniques.
 
+## CNS (Computer Networks and Security)
+
+This directory contains assignments related to computer networks and security concepts.
+
+* **Assignments:** Each assignment folder contains the code, documentation, and any other relevant files.
