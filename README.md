@@ -60,3 +60,16 @@ Specific dependencies for each assignment are listed within the respective assig
 * **Specific libraries:** Such as NumPy, Pandas, Scikit-learn (for ML), or network simulation tools (for CNS).
 
 Please refer to the individual assignment's documentation for detailed dependency information.
+
+## Contribution
+
+This repository is for personal academic purposes. Contributions are not expected.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE) (if you choose to add one).
+
+## Author
+
+[Your Name]
+[Your Email/GitHub Profile]
