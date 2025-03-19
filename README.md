@@ -29,3 +29,23 @@ This directory contains assignments related to compiler design.
 This directory contains assignments related to machine learning.
 
 * **Assignments:** Each assignment folder contains the code, datasets, and documentation.
+
+## How to Use
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [repository URL]
+    ```
+2.  **Navigate to the desired directory:**
+    ```bash
+    cd CNS/Assignment1
+    ```
+    or
+    ```bash
+    cd CD/LexicalAnalyzer
+    ```
+    or
+    ```bash
+    cd ML/Assignment1
+    ```
+3.  **Follow the instructions in the assignment's README or documentation.**
