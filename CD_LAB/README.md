@@ -43,3 +43,8 @@ The following is a list of experiments included in this repository:
 ## Getting Started
 
 ### Prerequisites
+
+To run these experiments, you will need the following software:
+
+* **C Compiler:** A C compiler such as GCC is required.  Ensure it is in your system's PATH.
+* **Lex and Yacc:** For experiments involving lexical analysis and parsing, you'll need Lex and Yacc.  On most Linux systems, Flex and Bison are readily available and commonly used as replacements.  Install these if they are not already present on your system.
