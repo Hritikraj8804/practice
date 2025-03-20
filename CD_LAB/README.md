@@ -60,8 +60,25 @@ For standalone C programs, use GCC:
 ```bash
 gcc <experiment_name>.c -o <experiment_name>
 ```
+
 For example:
 
 ```bash
 gcc token_identifier.c -o token_identifier
+```
+
+#### Lex Programs
+
+For Lex programs (e.g., those with a `.l` extension), use Flex:
+
+```bash
+flex <lexer_file>.l
+gcc lex.yy.c -o <output_name> -lfl
+```
+
+For example:
+
+```bash
+flex lexer.l
+gcc lex.yy.c -o lexer -lfl
 ```
