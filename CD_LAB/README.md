@@ -40,3 +40,6 @@ The following is a list of experiments included in this repository:
 | 13    | Write a C program for generating the three address code of a given expression/statement.                       | [./experiments/13_three_address_code/three\_address\_code.c](./experiments/13_three_address_code/three_address_code.c)                     |
 | 14    | Write a C program for implementation of a Code Generation Algorithm of a given expression/statement.           | [./experiments/14_code_generation/code\_generation.c](./experiments/14_code_generation/code_generation.c)                               |
 
+## Getting Started
+
+### Prerequisites
