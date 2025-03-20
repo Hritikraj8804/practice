@@ -103,3 +103,25 @@ gcc grammar.tab.c -o parser -ly -lfl
 * The `-lfl` flag links the Flex library.
 * The `-ly` flag links the Yacc library.
 * If your Yacc program uses functions from the math library, you might need to add `-lm` to the gcc command.
+
+#### Lex and Yacc Together
+
+For programs that use both Lex and Yacc (e.g., the calculator example):
+
+1.  Compile the Lex file:
+
+    ```bash
+    flex <lexer_file>.l
+    ```
+
+2.  Compile the Yacc file:
+
+    ```bash
+    bison -d <grammar_file>.y
+    ```
+
+3.  Compile the combined program:
+
+    ```bash
+    gcc lex.yy.c <grammar_file>.tab.c -o <output_name> -ly -lfl
+    ```
