@@ -183,3 +183,14 @@ Compiler Design Experiments/
 │   └── 14_code_generation/
 │   │   └── code_generation.c
 ```
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this repository, please follow these guidelines:
+
+* Fork the repository.
+* Create a new branch for your feature or bug fix.
+* Write clear and concise code.
+* Provide comments to explain your code.
+* Update the `README.md` file if necessary.
+* Submit a pull reque
