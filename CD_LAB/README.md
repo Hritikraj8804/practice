@@ -60,3 +60,8 @@ For standalone C programs, use GCC:
 ```bash
 gcc <experiment_name>.c -o <experiment_name>
 ```
+For example:
+
+```bash
+gcc token_identifier.c -o token_identifier
+```
