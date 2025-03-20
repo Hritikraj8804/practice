@@ -146,3 +146,40 @@ For example:
 ```bash
 ./token_identifier
 ```
+
+## Repository Structure
+
+```
+Compiler Design Experiments/
+├── README.md
+├── experiments/
+│   ├── 01_token_identifier/
+│   │   └── token_identifier.c
+│   ├── 02_lexical_analyzer_lex/
+│   │   └── lexer.l
+│   ├── 03_lexical_analyzer_c/
+│   │   └── lexical_analyzer.c
+│   ├── 04_brute_force_top_down/
+│   │   └── brute_force_top_down.c
+│   ├── 05_recursive_descent_parser/
+│   │   └── recursive_descent_parser.c
+│   ├── 06_first_follow_sets/
+│   │   └── first_follow.c
+│   ├── 07_left_recursion_factoring/
+│   │   └── elimination.c
+│   ├── 08_predictive_parser/
+│   │   └── predictive_parser.c
+│   ├── 09_lr_parser/
+│   │   └── lr_parser.c
+│   ├── 10_shift_reduce_parser/
+│   │   └── shift_reduce_parser.c
+│   ├── 11_calculator_lex_yacc/
+│   │   ├── calculator.l
+│   │   └── calculator.y
+│   ├── 12_yacc_spec/
+│   │   └── grammar.y
+│   ├── 13_three_address_code/
+│   │   └── three_address_code.c
+│   └── 14_code_generation/
+│   │   └── code_generation.c
+```
