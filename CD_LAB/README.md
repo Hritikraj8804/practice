@@ -16,3 +16,5 @@ This repository contains C and Lex/Yacc implementations for various compiler des
 * [License](#license)
 
 ## Introduction
+
+This repository provides practical implementations of fundamental concepts in compiler design.  The experiments cover lexical analysis, parsing techniques, and basic code generation.  These implementations are primarily in C, with some experiments utilizing Lex and Yacc.
