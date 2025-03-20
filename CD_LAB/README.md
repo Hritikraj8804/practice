@@ -132,3 +132,17 @@ flex calculator.l
 bison -d calculator.y
 gcc lex.yy.c calculator.tab.c -o calculator -ly -lfl
 ```
+
+### Running
+
+To execute a compiled program, open a terminal, navigate to the directory where the executable is located, and run it:
+
+```bash
+./<program_name>
+```
+
+For example:
+
+```bash
+./token_identifier
+```
