@@ -125,3 +125,10 @@ For programs that use both Lex and Yacc (e.g., the calculator example):
     ```bash
     gcc lex.yy.c <grammar_file>.tab.c -o <output_name> -ly -lfl
     ```
+For example:
+
+```bash
+flex calculator.l
+bison -d calculator.y
+gcc lex.yy.c calculator.tab.c -o calculator -ly -lfl
+```
