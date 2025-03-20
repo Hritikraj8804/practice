@@ -52,3 +52,7 @@ To run these experiments, you will need the following software:
 ### Compilation
 
 The compilation process varies slightly depending on the type of experiment.
+
+#### C Programs
+
+For standalone C programs, use GCC:
