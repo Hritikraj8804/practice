@@ -82,3 +82,24 @@ For example:
 flex lexer.l
 gcc lex.yy.c -o lexer -lfl
 ```
+
+#### Yacc Programs
+
+For Yacc programs (e.g., those with a `.y` extension), use Bison:
+
+```bash
+bison -d <grammar_file>.y
+gcc <grammar_file>.tab.c -o <output_name> -ly -lfl
+```
+
+For example:
+
+```bash
+bison -d grammar.y
+gcc grammar.tab.c -o parser -ly -lfl
+```
+
+* The `-d` flag in the `bison` command generates a header file (`.tab.h`) containing token definitions, which may be needed by other parts of your program.
+* The `-lfl` flag links the Flex library.
+* The `-ly` flag links the Yacc library.
+* If your Yacc program uses functions from the math library, you might need to add `-lm` to the gcc command.
