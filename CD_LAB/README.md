@@ -56,3 +56,7 @@ The compilation process varies slightly depending on the type of experiment.
 #### C Programs
 
 For standalone C programs, use GCC:
+
+```bash
+gcc <experiment_name>.c -o <experiment_name>
+```
