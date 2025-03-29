@@ -1,4 +1,4 @@
-# lab-repo
+# lab repo
 
 This repository contains my lab assignments for the following courses:
 
