@@ -4,7 +4,7 @@ import java.math.*;
 import java.util.Random;
 import java.util.Scanner;
 
-public class RSA {
+public class Rsa {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
