@@ -54,3 +54,22 @@ int main() {
 
     return 0;
 }
+
+
+
+/*
+
+Enter input (e.g., i+i*i): i/i
+
+Stack        Input        Action      
+============ ============ ============
+i            /i           Shift       
+E            /i           Reduce E→i
+E/           i            Shift       
+E/i                       Shift       
+E/E                       Reduce E→i
+E                         Reduce E→E/E
+
+Input Accepted!
+
+*/
